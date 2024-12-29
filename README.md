@@ -1,2 +1,2 @@
 # STL
-Standard Code Library
+Standard Code Library for ICPC/CCPC
